@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# huggingfacebrochure
+
 
 # Hugging Face Brochure Generator
 
